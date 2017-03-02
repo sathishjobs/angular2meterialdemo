@@ -2,6 +2,27 @@
 # https://coursetro.com/posts/code/29/Working-with-Angular-2-Material
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
+angular.element($0).scope()
+angular.element($0).controller()
+angular.element($0).inheritedDetail()
+
+css for ng-scope:
+ng-scope,
+ng-isolate-scope,
+ng-binding,
+ng-invalid,
+ng-valid,
+ng-pristine,
+ng-dirty,
+ng-touched,
+ng-untouched
+
+$('.ng-scope').css('border','1px solid blue').css('margin','1px');
+
+$('[ng-model]')
+
+ 
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
